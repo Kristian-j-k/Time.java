@@ -26,7 +26,7 @@ public class Main {
         System.out.println(" sekunder til midnat");
 
     //percentage of the day
-        double helDag = 24*60*60;
+        float helDag = 24*60*60;
         System.out.print(helDag/til*100);
         System.out.println(" procent tilbage af dagen");
     }
